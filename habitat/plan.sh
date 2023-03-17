@@ -11,7 +11,7 @@ pkg_name=sample-node-app-new
 # Required unless overridden by the `HAB_ORIGIN` environment variable.
 # The origin is used to denote a particular upstream of a package.
 pkg_origin=ak-training
-
+#
 # Required.
 # Sets the version of the package
 pkg_version="0.1.0"
